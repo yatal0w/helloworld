@@ -1,2 +1,2 @@
-mcs HelloWorld.cs
-mono HelloWorld.exe
+$ mcs HelloWorld.cs
+$ mono HelloWorld.exe
