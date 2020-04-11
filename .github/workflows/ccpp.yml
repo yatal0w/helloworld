@@ -14,7 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: mkdir build
+      run: cd clang
+           mkdir build
            cd build
            cmake ..
            make
