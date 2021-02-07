@@ -1,5 +1,5 @@
-#ifndef _HELLOW_
-#define _HELLOW_
+#ifndef _HELLO_
+#define _HELLO_
 
 int plus(int a, int b);
 
