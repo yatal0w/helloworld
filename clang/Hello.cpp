@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "HelloWorld.h"
-#include "Hello.h"
+#include "HelloWorld2.h"
 
 int main()
 {
@@ -15,7 +15,3 @@ int main()
     return 0;
 }
 
-int plus(int a, int b)
-{
-    return a+b;
-}
