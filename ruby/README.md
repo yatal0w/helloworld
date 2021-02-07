@@ -1,1 +1,1 @@
-$ ruby HelloWorld.rb
+$ ruby Hello.rb
