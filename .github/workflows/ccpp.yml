@@ -21,5 +21,4 @@ jobs:
            cmake ..
            make
     - name: test
-      run: |
-           clang/build/Hello
+      run: clang/build/Hello
