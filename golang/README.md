@@ -1,2 +1,2 @@
-$ go build HelloWold.go
+$ go build Hello.go  
 $ ./HelloWorld
