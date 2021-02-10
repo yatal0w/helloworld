@@ -11,5 +11,6 @@ class Hello
         HelloWorld hello = new HelloWorld();
         int d=hello.minus(a,b);
         Console.WriteLine("minus={0}",d);
+        hello.display();
     }
 }
