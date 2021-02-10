@@ -11,6 +11,7 @@ int main()
     Sample* sample = new Sample();
     int d=sample->minus(a,b);
     printf("minus=%d\n",d);
+    sample->display();
     delete sample;
     return 0;
 }

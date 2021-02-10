@@ -7,5 +7,8 @@ public:
     Sample();
     ~Sample();
     int minus(int a, int b);
+    void display();
+private:
+    int num;
 };
 #endif
