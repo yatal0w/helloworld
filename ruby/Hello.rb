@@ -10,3 +10,5 @@ printf "plus=%d\n",c
 d=HelloWorld.new
 e=d.minus(a,b)
 printf "minus=%d\n",e
+
+d.display()
