@@ -7,5 +7,6 @@ public class Hello {
         HelloWorld helloworld = new HelloWorld();
         int d=helloworld.minus(a,b);
         System.out.printf("plus=%d\n",d);
+        helloworld.display();
     }
 }
